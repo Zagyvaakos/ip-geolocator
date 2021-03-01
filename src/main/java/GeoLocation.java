@@ -17,7 +17,7 @@ String regionName,
 String timezone,
 String zip
 )   {}
-
+ 
 
 /*
 System.out.println(GeoLocation.as());
